@@ -53,5 +53,6 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [DevOps Health Radar. Краткий справочник по практикам](https://idyakonoff.ru/posts/devops-health-radar/)
 - [Oracle Analytic Functions](https://idyakonoff.ru/posts/oracle-analytic-function/)
 <!-- BLOG-POST-LIST:END -->
